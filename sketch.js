@@ -32,7 +32,7 @@ function draw() {
 
   fill("black");
   textSize(22);
-  text("press up arrow key to throw the paper", 100, 70);
+  text("press the up arrow key to throw the paper", 100, 70);
  
   groundObject.display();
   dustbinObj.display();
